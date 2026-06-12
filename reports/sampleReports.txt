@@ -1,0 +1,15 @@
+Business Intelligence Report
+
+Total Records: 4
+
+Products Analysed:
+Rice
+Wheat
+Corn
+Sugarcane
+
+Average Sales: 4800
+Average Profit: 1200
+
+Top Performing Product:
+Sugarcane
